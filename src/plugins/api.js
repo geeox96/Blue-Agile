@@ -1,1 +1,1 @@
-export const api = "https://staging-api.zepplin.com.br/";
+export const api = "https://challenge-api.zepplin.com.br/";
